@@ -1,0 +1,11 @@
+.link1:hover {
+    background-color: #003580;
+}
+
+.link2:focus {
+    color: #5aaaa6;
+}
+
+.link3:active {
+    font-style: italic;
+}
